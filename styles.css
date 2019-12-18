@@ -30,5 +30,16 @@ body{
     background-attachment: fixed;
     background-position: 50% 50%;
 }
-
-/*langat  */
+footer{
+    height: 100%;
+    color: black;
+    background-color:green;
+    text-align: center;
+    text-decoration-style: wavy;
+    font-size:20px;
+    text-decoration-color: rgba(0, 0, 0, 0.9);
+    padding-bottom: 3vh;
+  }
+  #nyali{
+      padding-bottom: 2%;
+  }
