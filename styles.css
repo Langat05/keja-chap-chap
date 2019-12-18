@@ -3,11 +3,13 @@
     font-weight: bolder;
     margin-left: 4rem;
 }
+
 span {
     font-size: 3rem;
     color: white;
     font-weight: bolder;
 }
+
 /*landing page*/
 .toppage {
     height: 100vh;
@@ -22,7 +24,8 @@ span {
     line-height: 40px;
     width: 100%;
 }
-body{
+
+body {
     background-image: url(images/landing.jpg);
     background-repeat: no-repeat;
     background-size: cover;
