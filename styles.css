@@ -3,11 +3,13 @@
     font-weight: bolder;
     margin-left: 4rem;
 }
+
 span {
     font-size: 3rem;
     color: white;
     font-weight: bolder;
 }
+
 /*landing page*/
 .toppage {
     height: 100vh;
@@ -22,7 +24,8 @@ span {
     line-height: 40px;
     width: 100%;
 }
-body{
+
+body {
     background-image: url(images/landing.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,5 +33,16 @@ body{
     background-attachment: fixed;
     background-position: 50% 50%;
 }
-
-/*langat  */
+footer{
+    height: 100%;
+    color: black;
+    background-color:green;
+    text-align: center;
+    text-decoration-style: wavy;
+    font-size:20px;
+    text-decoration-color: rgba(0, 0, 0, 0.9);
+    padding-bottom: 3vh;
+  }
+  #nyali{
+      padding-bottom: 2%;
+  }
