@@ -38,12 +38,16 @@ body {
 footer {
     height: 100%;
     color: black;
-    background-color: green;
+    /* background-color: green; */
     text-align: center;
     text-decoration-style: wavy;
-    font-size: 20px;
+    font-size: 40px;
     text-decoration-color: rgba(0, 0, 0, 0.9);
     padding-bottom: 3vh;
+    margin-top: 40%;
+    color: white;
+    background-color:green;
+
 }
 
 #nyali {
