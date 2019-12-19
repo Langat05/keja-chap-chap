@@ -55,4 +55,4 @@
 
 - <b>Lilian Munyekenye</b>
 
-- <b>Jonah Makori</b>
+- <b>Jonah Makori
