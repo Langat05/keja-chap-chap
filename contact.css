@@ -1,13 +1,14 @@
-
 .var {
     font-weight: bolder;
     margin-left: 4rem;
 }
+
 span {
     font-size: 2rem;
     color: white;
     font-weight: bolder;
 }
+
 .toppage {
     height: 100vh;
 }
@@ -21,7 +22,8 @@ span {
     line-height: 40px;
     width: 100%;
 }
-body{
+
+body {
     background-image: url(images/landing.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,6 +31,7 @@ body{
     background-attachment: fixed;
     background-position: 50% 50%;
 }
+
 * {
     box-sizing: border-box;
 }
@@ -42,9 +45,11 @@ body {
     width: 25%;
     padding: 0 10px;
 }
-#soon{
+
+#soon {
     padding-bottom: 2%;
 }
+
 .row {
     margin: 0 -5px;
 }
@@ -157,7 +162,7 @@ body {
     }
 }
 
-#cont{
+#cont {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -172,15 +177,14 @@ body {
     text-align: center;
     text-decoration: none;
     border-radius: 40%;
-  }
+}
 
 
 .fa:hover {
     opacity: 0.7;
-  }
-  
+}
+
 .fa-instagram {
     background: #f10410;
     color: white;
-  }
-  
+}
