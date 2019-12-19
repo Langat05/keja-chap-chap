@@ -42,10 +42,6 @@ $(document).ready(function () {
         $("#wembe").toggle();
     });
 
-
-
-
-
     $("#kisumu").hide();
     $("#sumu").click(function () {
         $("#kisumu").toggle();
