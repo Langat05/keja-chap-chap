@@ -1,18 +1,19 @@
 /*langat  */
+
 .var {
     font-weight: bolder;
-    margin-left: 4rem;
+    margin-left: 3rem;
 }
 
 span {
-    font-size: 3rem;
+    font-size: 2rem;
     color: white;
     font-weight: bolder;
 }
 
 /*landing page*/
 .toppage {
-    height: 100vh;
+    height: 70vh;
 }
 
 .toptext {
@@ -33,5 +34,16 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%;
 }
-
-/*langat  */
+footer{
+    height: 100%;
+    color: black;
+    background-color:green;
+    text-align: center;
+    text-decoration-style: wavy;
+    font-size:20px;
+    text-decoration-color: rgba(0, 0, 0, 0.9);
+    padding-bottom: 3vh;
+  }
+  #nyali{
+      padding-bottom: 2%;
+  }
