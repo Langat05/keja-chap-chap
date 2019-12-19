@@ -49,10 +49,10 @@
 
 ## AUTHORS
 
-- <b>Langat Justus</b>
+- Langat Justus
 
-- <b>Dennis Mwau</b>
+- Dennis Mwau
 
-- <b>Lilian Munyekenye</b>
+- Lilian Munyekenye
 
-- <b>Jonah Makori</b>
+- Jonah Makori
